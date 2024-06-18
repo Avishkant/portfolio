@@ -1,6 +1,7 @@
 # portfolio
-![Screenshot (251)](https://github.com/Avishkant/portfolio/assets/109219822/413b6ea1-f593-4d96-b3bb-aa0100101f48)
-[Screenshot (262)](https://github.com/Avishkant/portfolio/assets/109219822/ba859c97-e143-48cf-96b0-298f40748484)
+
+![HimalayaImage](https://github.com/Avishkant/portfolio/assets/109219822/a9144a5c-efa1-450a-ac96-4360c71d6538)
+![socialFelltImage](https://github.com/Avishkant/portfolio/assets/109219822/a5e4efcd-cb94-4610-9c5f-312e917b7fdc)
 
 My portfolio Website
 <img width="256" alt="Photoshop" src="https://github.com/Avishkant/portfolio/assets/109219822/b998f59e-5ae0-4d56-a872-6e59368cfa3b">
