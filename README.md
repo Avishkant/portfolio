@@ -1,4 +1,7 @@
 # portfolio
+![Screenshot (251)](https://github.com/Avishkant/portfolio/assets/109219822/413b6ea1-f593-4d96-b3bb-aa0100101f48)
+[Screenshot (262)](https://github.com/Avishkant/portfolio/assets/109219822/ba859c97-e143-48cf-96b0-298f40748484)
+
 My portfolio Website
 <img width="256" alt="Photoshop" src="https://github.com/Avishkant/portfolio/assets/109219822/b998f59e-5ae0-4d56-a872-6e59368cfa3b">
 ![C++](https://github.com/Avishkant/portfolio/assets/109219822/966f6a7e-b54e-4724-817f-9f682eca5251)
